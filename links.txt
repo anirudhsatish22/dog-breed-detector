@@ -1,0 +1,4 @@
+kaggle dog dataset: https://www.kaggle.com/c/dog-breed-identification
+
+To refer to examples/model performance, please view the modelOutput folder in the src directory
+github: https://github.com/anirudhsatish22/dog-breed-detector
